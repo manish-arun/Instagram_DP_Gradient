@@ -7,7 +7,8 @@ html, body {
     height: 40px;
     width: 40px;
     border-radius: 50%;
-    border: 2px solid red;
+    background: linear-gradient(rgb(242, 242, 2),rgb(238, 157, 8),rgb(242, 12, 50),purple,blue);
+    padding: 2px;
 }
 
 #gola img {
